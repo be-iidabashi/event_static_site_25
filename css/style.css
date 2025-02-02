@@ -5,8 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
-    background-size: cover;
+    background-image: url(https://i3.gamebiz.jp/media/3f0ad581-7325-46c8-8efb-b9f20145c807.jpg)
 }
 
 .top-content{
@@ -21,12 +20,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: black;
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #fc351f;
 }
 
 .content-section .container { 
