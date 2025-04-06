@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://www.tv-asahi.co.jp/doraemon_2017/OG.jpg);
     background-size: cover;
 }
 
@@ -18,15 +18,15 @@
 }
 
 .top-content h1 {
-    font-size: 4em;
+    font-size: 3em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(2, 0, 0);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #04e5f0d2;
 }
 
 .content-section .container { 
