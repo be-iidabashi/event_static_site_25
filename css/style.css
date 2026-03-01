@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://www.pokemoncenter-online.com/a/img/item/4902370553024/L/c59288b434f2dd867ba20774622d7d5107c1972392baede6e526a5a2f1bce2ef.jpg);
     background-size: cover;
 }
 
@@ -18,15 +18,15 @@
 }
 
 .top-content h1 {
-    font-size: 4em;
+    font-size: 8em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(4, 83, 241);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #1008f1;
 }
 
 .content-section .container { 
