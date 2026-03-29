@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://www.budo-dojo-navi.com/wp-content/uploads/2024/02/%E5%89%A3%E9%81%93%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B81.jpg);
     background-size: cover;
 }
 
@@ -26,7 +26,7 @@
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #020008;
 }
 
 .content-section .container { 
