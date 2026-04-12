@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://assets.st-note.com/production/uploads/images/261209591/rectangle_large_type_2_9e25ab576dc687ead802c12cd7865838.jpeg?width=1280);
     background-size: cover;
 }
 
@@ -26,7 +26,7 @@
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #2580e8;
 }
 
 .content-section .container { 
