@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4EQYq3KG_QI/v0/-1x-1.webp);
     background-size: cover;
 }
 
@@ -26,7 +26,7 @@
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #19633c;
 }
 
 .content-section .container { 
