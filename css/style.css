@@ -5,8 +5,12 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-attachment: fixed;
+    background: 
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('..//images/release_1_hogwarts.webp');
     background-size: cover;
+    color: white;
 }
 
 .top-content{
@@ -21,12 +25,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #f4dea5;
 }
 
 .content-section .container { 
@@ -48,4 +52,29 @@
 
 .privacy-policy-link{
     color: #3cbf49;
+}
+
+.nav-link{
+    color: #2d2d2d;
+} 
+
+.nav justify-content-end{
+    background-color: #3cbf49;
+}
+
+.col-md-4{
+     transition: transform 0.3s ease;
+      border-radius: 50%;
+}
+
+.col-md-4:hover{
+    transform: scale(1.05);
+}
+
+.col-md-4 img{
+      width: 200px;
+     height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    
 }
