@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://educational-expert.com/wp-content/uploads/%E3%83%96%E3%83%AD%E3%82%B9%E3%82%BF%EF%BC%88%E3%83%9F%E3%83%BC%E3%83%97%E3%83%AB%E7%99%BB%E5%A0%B4%EF%BC%89.png);
     background-size: cover;
 }
 
@@ -21,7 +21,7 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(124, 211, 240);
     text-align: center;
 }
 
